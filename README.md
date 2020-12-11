@@ -6,3 +6,5 @@
 - 👯 I’m looking to collaborate on **JS projects**.
 - 💬 Ask me about how build analytics systems and everything about JS, I’m happy to help.
 - 📫 How to reach me: ✉️ [aleksandr.yakovlev@live.com](mailto:aleksandr.yakovlev@live.com) or Telegram [@stedman](https://t.me/stedman).
+
+![](https://komarev.com/ghpvc/?username=aleksandr-yakovlev)
